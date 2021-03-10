@@ -1,0 +1,224 @@
+{
+    "songs": [
+    {
+        "id": "1",
+        "name": "Thriller",
+        "album": "Thriller",
+        "singer": "Thriller",
+        "director": "Thriller",
+        "producer": "Thriller",
+        "country": "Thriller",
+        "dancer": "Thriller"
+    },
+    {
+        "id": "2",
+        "name": "Dangerous",
+        "album": "Dangerous",
+        "singer": "Dangerous",
+        "director": "Dangerous",
+        "producer": "Dangerous",
+        "country": "Dangerous",
+        "dancer": "Dangerous"
+    },
+    {
+        "id": "3",
+        "name": "Stranger In Moscow",
+        "album": "History",
+        "singer": "Stranger In Moscow",
+        "director": "History",
+        "producer": "History",
+        "country": "History",
+        "dancer": "History"
+    },
+    {
+        "id": "4",
+        "name": "Smooth Criminal",
+        "album": "BAD",
+        "singer": "Smooth Criminal",
+        "director": "BAD",
+        "producer": "BAD",
+        "country": "BAD",
+        "dancer": "BAD"
+    },
+    {
+        "id": "5",
+        "name": "BAD",
+        "album": "BAD",
+        "singer": "BAD",
+        "director": "BAD",
+        "producer": "BAD",
+        "country": "BAD",
+        "dancer": "BAD"
+    },
+    {
+        "id": "6",
+        "name": "Black or White",
+        "album": "Dangerous",
+        "singer": "Black or White",
+        "director": "Dangerous",
+        "producer": "Dangerous",
+        "country": "Dangerous",
+        "dancer": "Dangerous"
+    },
+    {
+        "id": "7",
+        "name": "Hold My Hand",
+        "album": "Michael",
+        "singer": "Hold My Hand",
+        "director": "Michael",
+        "producer": "Michael",
+        "country": "Michael",
+        "dancer": "Michael"
+    },
+    {
+        "id": "8",
+        "name": "Rock With You",
+        "album": "Off The Wall",
+        "singer": "Rock With You",
+        "director": "Off The Wall",
+        "producer": "Off The Wall",
+        "country": "Off The Wall",
+        "dancer": "Off The Wall"
+    },
+    {
+        "id": "9",
+        "name": "Billy Jean",
+        "album": "Thriller",
+        "singer": "Billy Jean",
+        "director": "Thriller",
+        "producer": "Thriller",
+        "country": "Thriller",
+        "dancer": "Thriller"
+    },
+    {
+        "id": "10",
+        "name": "They don't really care about us",
+        "album": "History",
+        "singer": "They don't really care about us",
+        "director": "History",
+        "producer": "History",
+        "country": "History",
+        "dancer": "History"
+    },
+    {
+        "id": "11",
+        "name": "You rock My World",
+        "album": "Invincible",
+        "singer": "You rock My World",
+        "director": "Invincible",
+        "producer": "Invincible",
+        "country": "Invincible",
+        "dancer": "Invincible"
+    },
+    {
+        "id": "12",
+        "name": "Thriller",
+        "album": "Thriller",
+        "singer": "Thriller",
+        "director": "Thriller",
+        "producer": "Thriller",
+        "country": "Thriller",
+        "dancer": "Thriller"
+    },
+    {
+        "id": "13",
+        "name": "Dangerous",
+        "album": "Dangerous",
+        "singer": "Dangerous",
+        "director": "Dangerous",
+        "producer": "Dangerous",
+        "country": "Dangerous",
+        "dancer": "Dangerous"
+    },
+    {
+        "id": "14",
+        "name": "Stranger In Moscow",
+        "album": "History",
+        "singer": "Stranger In Moscow",
+        "director": "History",
+        "producer": "History",
+        "country": "History",
+        "dancer": "History"
+    },
+    {
+        "id": "15",
+        "name": "Smooth Criminal",
+        "album": "BAD",
+        "singer": "Smooth Criminal",
+        "director": "BAD",
+        "producer": "BAD",
+        "country": "BAD",
+        "dancer": "BAD"
+    },
+    {
+        "id": "16",
+        "name": "BAD",
+        "album": "BAD",
+        "singer": "BAD",
+        "director": "BAD",
+        "producer": "BAD",
+        "country": "BAD",
+        "dancer": "BAD"
+    },
+    {
+        "id": "17",
+        "name": "Black or White",
+        "album": "Dangerous",
+        "singer": "Black or White",
+        "director": "Dangerous",
+        "producer": "Dangerous",
+        "country": "Dangerous",
+        "dancer": "Dangerous"
+    },
+    {
+        "id": "18",
+        "name": "Hold My Hand",
+        "album": "Michael",
+        "singer": "Hold My Hand",
+        "director": "Michael",
+        "producer": "Michael",
+        "country": "Michael",
+        "dancer": "Michael"
+    },
+    {
+        "id": "19",
+        "name": "Rock With You",
+        "album": "Off The Wall",
+        "singer": "Rock With You",
+        "director": "Off The Wall",
+        "producer": "Off The Wall",
+        "country": "Off The Wall",
+        "dancer": "Off The Wall"
+    },
+    {
+        "id": "20",
+        "name": "Billy Jean",
+        "album": "Thriller",
+        "singer": "Billy Jean",
+        "director": "Thriller",
+        "producer": "Thriller",
+        "country": "Thriller",
+        "dancer": "Thriller"
+    },
+    {
+        "id": "21",
+        "name": "They don't really care about us",
+        "album": "History",
+        "singer": "They don't really care about us",
+        "director": "History",
+        "producer": "History",
+        "country": "History",
+        "dancer": "History"
+    },
+    {
+        "id": "22",
+        "name": "You rock My World",
+        "album": "Invincible",
+        "singer": "You rock My World",
+        "director": "Invincible",
+        "producer": "Invincible",
+        "country": "Invincible",
+        "dancer": "Invincible"
+    }
+  ]
+}
